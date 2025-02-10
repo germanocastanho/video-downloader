@@ -69,9 +69,9 @@ Este é um script simples em Python, projetado para **baixar vídeos da internet
 
 <br />
 
-## 📌 Exemplos de Uso
+## 📌 Exemplo de Uso
 
-O script solicita ao usuário a URL do vídeo desejado e o diretório onde o arquivo será armazenado. Após receber essas informações, ele processa o download, garantindo que ele seja salvo no local indicado. O arquivo é nomeado aleatoriamente para fim de evitar conflitos, simplificando o gerenciamento dos vídeos baixados e evitando a necessidade de nomeação manual. Veja um exemplo de uso:
+O script solicita ao usuário a URL do vídeo desejado e o diretório onde o arquivo será armazenado. Após receber essas informações, ele processa o download, garantindo que ele seja salvo no local indicado. O arquivo é nomeado aleatoriamente a fim de evitar conflitos, simplificando o gerenciamento dos vídeos baixados. Veja um exemplo de uso:
 
 1. **Execute o script**:
 
