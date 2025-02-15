@@ -9,10 +9,6 @@ import yt_dlp
 
 
 def download_video():
-    """
-    Função para baixar vídeos da internet. Solicita ao usuário a URL do vídeo; em seguida, solicita o PATH para salvar o download. Realiza o download no melhor formato disponível, salvando o arquivo em '.mp4', com um nome criado aleatoriamente pela biblioteca 'uuid'.
-    """
-
     video_url = input("Digite a URL do vídeo: ")
     video_path = input("Digite o PATH do download: ")
 
